@@ -1,0 +1,32 @@
+/* styles.css */
+
+/* Heading styles */
+h1 {
+    color: blue;
+  }
+  
+  /* Form styles */
+  form {
+    background-color: lightblue;
+  }
+  
+  /* List styles */
+  ul {
+    background-color: lightblue;
+  }
+  
+  /* List item styles */
+  li {
+    color: black;
+  }
+  
+  /* Error message styles */
+  .error {
+    color: red;
+  }
+
+  /* Body background */
+body {
+  background-color: lightblue;
+}
+  
